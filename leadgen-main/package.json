@@ -1,0 +1,12 @@
+{
+  "name": "easemed-hospital-discovery",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "discover": "node src/discovery/index.js"
+  },
+  "description": "EaseMed Karnataka hospital contact discovery — local Firecrawl pipeline writing CSV call lists."
+}

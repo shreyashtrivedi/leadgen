@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.firecrawl/
+data/*.csv
+data/run_report.md
+.DS_Store
+Thumbs.db
+random things/
+
